@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: isida.lovable.app
+**URL**: https://isida-mu.vercel.app/
 
 ## How can I edit this code?
 
